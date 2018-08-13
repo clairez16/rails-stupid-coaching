@@ -1,0 +1,26 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+h1 {
+  color: rgb(200, 200, 200)
+}
+
+.wrapper {
+  background-color: lightgrey;
+  height: 500px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 970px;
+  background: #155e63 ;
+  padding: 10px;
+}
+
+.block {
+  padding: 10px;
+  margin: 10px;
+  background-color: lightgrey;
+}
